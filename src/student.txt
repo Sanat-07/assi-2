@@ -1,0 +1,5 @@
+Employee: 1 John Doe earns 50000.0 tenge
+Employee: 2 Jane Smith earns 45000.0 tenge
+Student: 3 Alice Johnson earns 36660.0 tenge
+Student: 4 Bob Brown earns 0.0 tenge
+Person : 5 Jacob Steve earns 25000.0 tenge
